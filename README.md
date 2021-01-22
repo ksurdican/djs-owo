@@ -1,4 +1,8 @@
 # owo
 * Thanks to YahYett#1709 for this idea
 
-I am not hosting this bot or anything, this is just something for me to do at 1am because I'm bored... if you are trying to run it and need some help feel free to add me on Discord (in my github bio)
+I don't feel like really hosting this bot myself so I'm just posting it here in this repo...
+
+The bot will automatically send "owo" in a channel if anyone sends a message that has "owo" anywhere in it...
+
+I'm not actually spending time on this but maybe sometime in the near future I'll work on something similar and actually spend time on it and host it for people just to invite to their servers...
